@@ -1,1 +1,3 @@
-# final_project
+# final_project(레시피 슈퍼)
+
+식약처 API의 레시피를 검색하고 레시피과 연관된 식재료를 판매하는 웹 사이트
